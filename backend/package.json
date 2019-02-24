@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for dstak",
+  "main": "index.js",
+  "author": "AvdK",
+  "license": "MIT"
+}
