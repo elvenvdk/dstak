@@ -16,7 +16,7 @@ class Generation {
         ? refreshRate - experationPeriod
         : refreshRate + experationPeriod;
 
-    this.expiration = new Date(Date.now() + msUntilExpieration);
+    return new Date(Date.now() + msUntilExpieration);
   }
 
   newDragon() {
