@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "Backend for dstak",
   "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon"
+  },
   "author": "AvdK",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
